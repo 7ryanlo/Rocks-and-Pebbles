@@ -6,4 +6,4 @@ Coded in C++ and must be run in a console. Before playing, load words into the p
     
     const char WORDFILENAME[] = "/Users/Ryan/Documents/workspaceXCODE/CS 31 Projects/Project 5 Rocks/words.txt"; //line 27
 
-to the destination of words.txt.
+to your destination of words.txt.
